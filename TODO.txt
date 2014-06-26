@@ -1,0 +1,4 @@
+Beat these: 
+
+http://www.mathworks.com/matlabcentral/fileexchange/28233-convert-eci-to-ecef-coordinates
+http://www.mathworks.com/matlabcentral/fileexchange/28234-convert-ecef-to-eci-coordinates
